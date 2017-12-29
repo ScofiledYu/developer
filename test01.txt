@@ -7,5 +7,9 @@ she is agreed
 fenshou
 
 fuck her
+<<<<<<< HEAD
 
 shuang~~~~~
+=======
+YES ,DO IT
+>>>>>>> feature1
